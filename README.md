@@ -29,7 +29,7 @@ python-dotenv
 Getting started
 Clone the repo, add your API key, and you're talking to GPT in under two minutes.
 
-git clone https://github.com/your-username/NexusAI.git
+git clone git clone https://github.com/samhithav2727/NexusAI.git
 cd NexusAI
 pip install -r requirements.txt
 Create a .env file in the root directory:
